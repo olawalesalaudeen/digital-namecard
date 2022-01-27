@@ -5,8 +5,9 @@ N:Salaudeen;Olawale;;;
 FN: Olawale Salaudeen
 ORG:University of Illinois at Urbana-Champaign;
 TITLE:Ph.D. Candidate
-EMAIL;type=INTERNET;type=WORK;type=pref:olasalaudeen96@gmail.com
-TEL;type=WORK;type=VOICE:+1 (469) 286 6388
+EMAIL;type=INTERNET;type=PERSONAL;type=pref:olasalaudeen96@gmail.com
+EMAIL;type=INTERNET;type=WORK;type=pref:oes2@illinois.edu
+TEL;type=PERSONAL;type=VOICE:+1 (469) 286 6388
 item1.URL;type=pref:https://olawalesalaudeen.com
 item1.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
