@@ -10,4 +10,5 @@ EMAIL;type=INTERNET;type=WORK;type=pref:oes2@illinois.edu
 TEL;type=HOME;type=VOICE:+14692866388
 item1.URL;type=pref:https://olawalesalaudeen.com
 item1.X-ABLabel:_$!<HomePage>!$_
+PHOTO;TYPE=JPEG;VALUE=URI:https://olawalesalaudeen.com/images/Salaudeen_Olawale.jpg
 END:VCARD
